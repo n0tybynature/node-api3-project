@@ -12,7 +12,10 @@
     },
     "dependencies": {
         "express": "^4.17.1",
+        "httpie": "^1.1.2",
         "knex": "^0.95.1",
+        "morgan": "^1.10.0",
+        "python": "0.0.4",
         "sqlite3": "^5.0.2"
     },
     "devDependencies": {
